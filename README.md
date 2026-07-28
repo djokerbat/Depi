@@ -19,7 +19,7 @@
     <tr>
       <td rowspan="3">Session2</td>
       <td rowspan="3">27/7/2026</td>
-      <td><img src="Task2/task/reference.jpeg" width="100%"></td>
+      <td><img src="Task2/task/reference.jpeg" ></td>
       <td><a href="Task2/task/index.html">Link</a></td>
       <td><a href="https://djokerbat.github.io/Depi/Task2/task/index.html">Demo</a></td>
     </tr>
