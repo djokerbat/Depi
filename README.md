@@ -1,4 +1,4 @@
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>Session</th>
@@ -15,6 +15,23 @@
       <td><img src="Task1/reference.jpeg" width="100%"></td>
       <td><a href="Task1/index.html">Link</a></td>
       <td><a href="https://djokerbat.github.io/Depi/Task1/index.html">Demo</a></td>
+    </tr>
+    <tr>
+      <td rowspan="3">Session2</td>
+      <td rowspan="3">27/7/2026</td>
+      <td><img src="Task2/task/reference.jpeg" width="100%"></td>
+      <td><a href="Task2/task/index.html">Link</a></td>
+      <td><a href="https://djokerbat.github.io/Depi/Task2/task/index.html">Demo</a></td>
+    </tr>
+       <tr>
+      <td><img src="Task2/task21/reference.jpeg" width="100%"></td>
+      <td><a href="Task2/task21/index.html">Link</a></td>
+      <td><a href="https://djokerbat.github.io/Depi/Task2/task21/index.html">Demo</a></td>
+    </tr>
+       <tr>
+      <td><img src="Task2/task22/reference.jpeg" width="100%"></td>
+      <td><a href="Task2/task22/index.html">Link</a></td>
+      <td><a href="https://djokerbat.github.io/Depi/Task2/task22/index.html">Demo</a></td>
     </tr>
   </tbody>
 </table>
