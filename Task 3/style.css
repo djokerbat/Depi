@@ -2,8 +2,15 @@
   float: left;
   width: 33.33%;
   background-color: darkpink;
+  text-align: center;
 }
 
+h1 {
+  color:darkred;
+}
+p{
+  color:white;
+}
 .container img {
   width: 100%;
 }
