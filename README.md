@@ -29,7 +29,7 @@
       <td><a href="https://djokerbat.github.io/Depi/Task2/task21/index.html">Demo</a></td>
     </tr>
        <tr>
-      <td><img src="Task2/task22/reference.jpeg" ></td>
+      <td><img tr="Task2/task22/reference.jpeg" ></td>
       <td><a href="Task2/task22/index.html">Link</a></td>
       <td><a href="https://djokerbat.github.io/Depi/Task2/task22/index.html">Demo</a></td>
     </tr>
@@ -37,7 +37,7 @@
       <td>Session3</td>
       <td>3/8/2026</td>
       <td><img src="" ></td>
-      <td><a href="Task 3Task1ex.html">Link</a></td>
+      <td><a href="Task 3/index.html">Link</a></td>
       <td><a href="https://djokerbat.github.io/Depi/Task%203/index.html">Demo</a></td>
     </tr>
   </tbody>
