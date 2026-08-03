@@ -1,15 +1,12 @@
 .container {
   float: left;
   width: 33.33%;
-  background-color: #FFF8F0;
+  background-color: #F5E6D3;;
   text-align: center;
 }
 
 h1 {
   color:brown;
-}
-p{
-  color:white;
 }
 .container img {
   width: 100%;
