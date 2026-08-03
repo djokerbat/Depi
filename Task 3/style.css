@@ -1,9 +1,9 @@
-.container{
-  display: float;
-  width: 33,33%;
+.container {
+  float: left;
+  width: 33.33%;
+  background-color: darkpink;
 }
 
-img{
-  width:100%;
+.container img {
+  width: 100%;
 }
-  
